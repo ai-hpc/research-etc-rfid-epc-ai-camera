@@ -19,6 +19,20 @@ This research track uses references from passive UHF RFID standards, reader cont
 - RAIN RFID Relevant Standards  
   https://rainrfid.org/wp-content/uploads/2022/05/RAIN-RFID_TWG_RAIN_RFID_Relevant_Standards_FINAL_20220503-v1.3.pdf
 
+## RFID Reliability and Read-Zone Design
+
+- RAIN RFID System Design Guidelines  
+  https://rainrfid.org/wp-content/uploads/2023/09/RAIN-RFID_System_Design_Guidelines-V2.pdf
+
+- RAIN RFID Lessons Learned from the Field  
+  https://rainrfid.org/wp-content/uploads/2021/04/RAIN_RFID_Lessons_learned_from_the_field.pdf
+
+- Analyzing the RFID Tag Read Rate Issue  
+  https://web.mit.edu/edmund_w/www/CutterITAdvisor.pdf
+
+- Reliable Identification of RFID Tags Using Multiple Independent Reader Sessions  
+  https://arxiv.org/abs/0904.2441
+
 ## Reader Control and Reader Health Telemetry
 
 - GS1 Low Level Reader Protocol (LLRP) Standard  
@@ -35,6 +49,9 @@ This research track uses references from passive UHF RFID standards, reader cont
 
 - Impinj IoT Device Interface API inventory configuration examples  
   https://support.impinj.com/hc/en-us/articles/32153110595219-Impinj-IoT-Device-Interface-API-Example-Inventory-Configurations
+
+- RFC 3418, Management Information Base for SNMP  
+  https://www.rfc-editor.org/rfc/rfc3418
 
 ## Observability and Telemetry Collection
 
@@ -54,6 +71,9 @@ This research track uses references from passive UHF RFID standards, reader cont
 
 - Real-Time Predictive Maintenance using Autoencoder Reconstruction and Anomaly Detection  
   https://arxiv.org/abs/2110.01447
+
+- Isolation-Based Anomaly Detection  
+  https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf
 
 - Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping  
   https://arxiv.org/abs/2307.15807
