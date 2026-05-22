@@ -48,6 +48,7 @@ The C++ EPC data generator is documented in detail here:
 - [How the EPC Data Generator Works](epc_generator_working.md)
 - [Vehicle Class Code Table](vehicle_class_codes.md)
 - [RK3576 AI Camera Software](rk3576_ai_camera_software.md)
+- [References](references.md)
 
 ## RK3576 Edge Software
 
@@ -111,6 +112,8 @@ The EPC may contain compact fields such as:
 | Checksum | Detects accidental transmission or decoding errors |
 
 Because standard EPC memory is limited, especially in 96-bit EPC formats, the EPC should store only compact metadata and short validation fields. Full public-key signatures are usually better stored and verified through backend-issued records, certificates, or signed registration data.
+
+This repository's EPC layout is a research prototype. It is inspired by EPC/RFID concepts but does not claim to be a GS1-compliant allocation scheme. See [references.md](references.md) for standards and implementation references.
 
 ## System Workflow
 
