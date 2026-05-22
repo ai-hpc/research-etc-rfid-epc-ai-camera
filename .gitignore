@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.o
+*.out
+epc_data_generator
+.venv/
+venv/
+.env
+.DS_Store

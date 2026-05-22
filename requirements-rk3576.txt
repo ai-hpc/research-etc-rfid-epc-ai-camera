@@ -1,0 +1,6 @@
+numpy>=1.23
+opencv-python>=4.8
+
+# Install Rockchip RKNN runtime from the board/vendor SDK on RK3576.
+# The Python package is usually provided as rknn-toolkit-lite2 / rknnlite,
+# not as a normal PyPI dependency.
