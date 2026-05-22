@@ -70,6 +70,23 @@ This research track uses references from electronic fee collection, RFID/EPC, li
 - Multi-Sensor Traffic Data Fusion, UC Berkeley Institute of Transportation Studies  
   https://its.berkeley.edu/publications/multi-sensor-traffic-data-fusion-0
 
+## Multi-Object Tracking
+
+- SORT, Simple Online and Realtime Tracking  
+  https://arxiv.org/abs/1602.00763
+
+- Deep SORT, Simple Online and Realtime Tracking with a Deep Association Metric  
+  https://arxiv.org/abs/1703.07402
+
+- ByteTrack, Multi-Object Tracking by Associating Every Detection Box  
+  https://arxiv.org/abs/2110.06864
+
+- ByteTrack implementation  
+  https://github.com/FoundationVision/ByteTrack
+
+- OC-SORT, Observation-Centric SORT for Robust Multi-Object Tracking  
+  https://arxiv.org/abs/2203.14360
+
 ## Edge AI Deployment
 
 - Rockchip RK3576 product page  
