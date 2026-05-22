@@ -10,6 +10,12 @@ This research proposes a real-time toll enforcement framework for detecting vehi
 
 The system combines RFID sensing, AI camera-based plate recognition, vehicle attribute analysis, and lane/speed sensors. Its goal is to identify unauthorized toll passages without requiring the vehicle to stop.
 
+## References
+
+Standards, research papers, and implementation references are listed here:
+
+- [References](references.md)
+
 ## Three-Sentence Summary
 
 This research aims to automatically detect vehicles passing through ETC lanes without a valid RFID tag or without payment. The system combines RFID sensing, AI camera-based plate recognition, vehicle attribute analysis, and lane/speed sensors to identify unpaid or no-tag vehicles in real time. It also generates evidence and triggers violations autonomously without requiring vehicles to stop, enabling high-speed multi-lane toll enforcement.
